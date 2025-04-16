@@ -1,7 +1,7 @@
 # Covid_19-Project
  This repository outlines data science techniques and offers critical analysis for selecting appropriate actions. It aids decision-making by considering various factors, ensuring effective methodology choices
 
-![](covid.jpeg)
+![](covid.png)
 
 # INTRODUCTION
 This is a dummy dataset that imitates the characteristics of data collected from hospital patients during covid-19 pandemic.
